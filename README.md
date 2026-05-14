@@ -4,9 +4,6 @@
 - 🔍​ Aprendendo Python e C#
 
 <br>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiola-jv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 
 ## Tecnologias que Utilizo:
 <div style="display:inline-block">
