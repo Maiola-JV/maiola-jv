@@ -4,7 +4,6 @@
 - 🕹️ Apaixonado por jogos
 - 🖥️ Atualmente mais focado em:  
 
-<br>
 <div style="display:inline-block">
   <img align="center" height="35" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
   <img align="center" height="35" width="40" alt="python-icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
