@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Maiola 
 
 - 🎓​ Estudante no curso de Análise e Desenvolvimento de Sistemas pela Fatec
-- 🔍​ Aprendendo Python and C++
+- 🔍​ Aprendendo Python e C#
 
 <br>
 <div>
@@ -16,7 +16,6 @@
   <img align="center" height="35" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
   <img align="center" height="30" width="40" alt="HTML5-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" alt="CSS3-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-  <img align="center" height="35" width="40" alt="bootstrap-icon" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
 </div>
 
 <br>
