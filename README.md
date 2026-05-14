@@ -1,18 +1,16 @@
-## Olá! Eu sou o João Maiola 
+## Olá! Meu nome é João
 
 - 🎓​ Estudante no curso de Análise e Desenvolvimento de Sistemas pela Fatec
-- 🔍​ Aprendendo Python e C#
+- 🕹️ Apaixonado por jogos
+- 🖥️ Atualmente mais focado em:  
 
 <br>
-
-## Tecnologias que Utilizo:
 <div style="display:inline-block">
-  <img align="center" height="30" width="40" alt="javascript-icon" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img align="center" height="35" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
   <img align="center" height="35" width="40" alt="python-icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img align="center" height="35" width="40" alt="php-icon" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+  <img align="center" height="30" width="40" alt="javascript-icon" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img align="center" height="35" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
-  <img align="center" height="30" width="40" alt="HTML5-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-  <img align="center" height="30" width="40" alt="CSS3-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+  <img align="center" height="35" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>
 </div>
 
 <br>
