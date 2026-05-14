@@ -1,7 +1,7 @@
 ## Olá! Meu nome é João
 
 - 🎓​ Estudante no curso de Análise e Desenvolvimento de Sistemas pela Fatec
-- 🕹️ Apaixonado por jogos
+- 🕹️ Apaixonado por **jogos**
 - 🖥️ Atualmente mais focado em:  
 
 <div style="display:inline-block">
@@ -15,6 +15,7 @@
 <br>
 <br>
 
+## Você também me encontra em:
 <div>
     <a href="https://www.linkedin.com/in/joão-vitor-maiola-73593324b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
     <a href="mailto:jvi.maiola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
